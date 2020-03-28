@@ -1,0 +1,12 @@
+name: nytimes_COVID_VIZ
+title: nytimes_COVID_VIZ
+username:
+account: joshyp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2010289
+bundleId: 2934758
+url: https://joshyp.shinyapps.io/nytimes_COVID_VIZ/
+when: 1585363187.7567
+asMultiple: FALSE
+asStatic: FALSE
